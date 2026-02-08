@@ -1,6 +1,6 @@
 Sistema de Empréstimo em Python 
 
-Este projeto é um sistema simples de simulação de empréstimos**, desenvolvido em Python, que analisa a renda do cliente, define o tipo de empréstimo e calcula parcelas fixas com juros
+Este projeto é um sistema simples de simulação de empréstimos, desenvolvido em Python, que analisa a renda do cliente, define o tipo de empréstimo e calcula parcelas fixas com juros
 
 
 Funcionalidades
